@@ -1,0 +1,54 @@
+.space {
+    margin-top: 10px;
+    display: block;
+}
+
+body{
+    background: linear-gradient(to right,#b6b6f5,#f6b6b6);
+}
+
+.butt{
+    margin-top: 10px;
+    display: block;
+
+}
+
+.tablerow{
+    margin: 15px;
+    border: 1px solid black;
+}
+
+.tablehead{
+    padding: 15px;
+    border: 1px solid black;
+    font-size: larger
+;
+}
+
+.tableheadfood{
+    padding: 15px;
+    border: 1px solid black;  
+    text-align: center;
+
+}
+
+.maintable{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 50px;
+
+}
+
+.chk{
+    margin-top: 10px;
+}
+
+
+.maindiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
